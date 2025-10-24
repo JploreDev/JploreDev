@@ -1,7 +1,7 @@
 ## 🎓 Certificaciones
 
 ### Cisco Networking Academy
-[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/54d1e0b1-40cc-4c5e-9672-6b9dc1a0fa3e/CyberEssentials.png)](https://www.credly.com/badges/TU_ID_AQUI)
+[![Introduction to Modern IA](https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob)](https://www.credly.com/badges/TU_ID_AQUI)
 [![Networking Basics](https://images.credly.com/size/110x110/images/abc123-networkingbasics.png)](https://www.credly.com/badges/TU_ID_AQUI)
 [![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/ccna-intro.png)](https://www.credly.com/badges/TU_ID_AQUI)
 
