@@ -35,6 +35,10 @@
   <a href="https://www.credly.com/badges/TU_ID_DEL_SEGUNDO_BADGE" target="_blank">
     <img src="https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" alt="Cisco Badge 2" width="170">
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/TU_ID_DEL_SEGUNDO_BADGE" target="_blank">
+    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3a49578b-b05c-40df-afd8-7de9e25d01e4.png" alt="Cisco Badge 2" width="170">
+  </a>
 </p>
 
 > Ver todas mis insignias en [**Credly**](https://www.credly.com/users/TU_USUARIO_AQUI)
