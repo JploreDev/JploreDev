@@ -71,11 +71,10 @@
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:juan.lorefice@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40"></a>
+  <a href="mailto:jploredev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/jploredev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN_AQUI"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"></a>
 </p>
 
 ---
